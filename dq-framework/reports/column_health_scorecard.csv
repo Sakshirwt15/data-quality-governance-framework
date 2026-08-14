@@ -1,0 +1,13 @@
+column,completeness_score,missing_pct,uniqueness_score,validity_score,invalid_pct,consistency_score,health_score,status
+gender,100.0,0.0,100.0,100.0,0.0,22.81,88.42,Warning
+annual_income,94.14,5.86,100.0,98.92,1.08,100.0,97.57,Good
+credit_score,96.06,3.94,100.0,99.26,0.74,100.0,98.36,Good
+employment_status,96.95,3.05,100.0,100.0,0.0,100.0,98.93,Good
+age,97.98,2.02,100.0,99.26,0.74,100.0,99.03,Good
+customer_id,100.0,0.0,98.52,100.0,0.0,100.0,99.78,Good
+loan_amount,100.0,0.0,100.0,99.41,0.59,100.0,99.79,Good
+region,100.0,0.0,100.0,100.0,0.0,99.01,99.85,Good
+existing_loans,100.0,0.0,100.0,100.0,0.0,100.0,100.0,Good
+marital_status,100.0,0.0,100.0,100.0,0.0,100.0,100.0,Good
+application_date,100.0,0.0,100.0,100.0,0.0,100.0,100.0,Good
+default_flag,100.0,0.0,100.0,100.0,0.0,100.0,100.0,Good

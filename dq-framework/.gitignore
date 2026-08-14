@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+reports/dq_pipeline.db
+.DS_Store
+venv/
+.env
